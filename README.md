@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/michellelohwt/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622183836~hmac=9ce3d23f429a5a5fbe9d610b67308ca1" alt="https://www.linkedin.com/in/michellelohwt/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/michellelohwt/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/145/145807.png" alt="https://www.linkedin.com/in/michellelohwt/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
