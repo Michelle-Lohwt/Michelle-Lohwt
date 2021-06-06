@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle Loh</h1>
-<h3 align="center">An passionate ML learner from Malaysia</h3>
+<h3 align="center">A passionate AI and Data Science learner from Malaysia</h3>
 
 - 🔭 I’m currently working on [Project-Based Learning](https://github.com/Michelle-alt/Project_based_learning)
 
