@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Project-Based Learning](https://github.com/Michelle-alt/Project_based_learning)
 
-- 🌱 I’m currently learning **Data Science from DataCamp**
+- 🌱 I’m currently learning **Data Science, Ruby on Rails and Flutter**
 
 - 📫 How to reach me **michellelohwt0799@gmail.com**
 
