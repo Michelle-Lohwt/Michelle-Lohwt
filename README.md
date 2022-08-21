@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **michellelohwt0799@gmail.com**
 
-- 🌟 Check out my [portfolio](https://github.com/Michelle-Lohwt/portfolio)
+- 🌟 Check out my [portfolio](https://michelle-lohwt.github.io/portfolio/)
