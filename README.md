@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michelle Loh</h1>
 <h3 align="center">A passionate AI and Data Science learner from Malaysia</h3>
 
+[![@michelle's Holopin board](https://holopin.me/michelle)](https://holopin.io/@michelle)
+
 - 🔭 I’m currently working on [Project-Based Learning](https://github.com/Michelle-alt/Project_based_learning)
 
 - 🌱 I’m currently learning **Data Science, AI and Reinforcement Learning**
