@@ -3,10 +3,8 @@
 
 [![@michelle's Holopin board](https://holopin.me/michelle)](https://holopin.io/@michelle)
 
-- 🔭 I’m currently working on [Project-Based Learning](https://github.com/Michelle-alt/Project_based_learning)
+- 🔭 I’m currently working on **Anti-Money Laundering, Artificial Intelligence and Blockchain**
 
-- 🌱 I’m currently learning **Data Science, AI and Reinforcement Learning**
-
-- 📫 How to reach me **michellelohwt0799@gmail.com**
+- 📫 How to reach me **michelleloh.tech@gmail.com**
 
 - 🌟 Check out my [portfolio](https://michelle-lohwt.github.io/portfolio/)
